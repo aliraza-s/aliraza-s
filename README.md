@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://gemprogrammers.com/](https://gemprogrammers.com/)
 
-- ⚡ Fun fact **I think I am Full Stack Developer, but not**
+- ⚡ Fun fact **I think I am Full Stack MERN, Web Developer, but not**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
