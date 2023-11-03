@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **SAAS (Website Builder)**
 
-- 👨‍💻 All of my projects are available at [Ali Raza POrtfolio](https://alirazafreelancer.com/)
+- 👨‍💻 All of my projects are available at [Ali Raza Portfolio](https://alirazafreelancer.com/)
 
 - 📝 I regularly write articles on [https://gemprogrammers.com/blog/](https://gemprogrammers.com/blog/)
 
