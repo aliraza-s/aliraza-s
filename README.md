@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">Passionate Website Developer Using WordPress & PHP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliraza-s&label=Profile%20views&color=0e75b6&style=flat" alt="aliraza-s" /> </p>
 
@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/aliraza90891910" target="blank"><img src="https://img.shields.io/twitter/follow/aliraza90891910?logo=twitter&style=for-the-badge" alt="aliraza90891910" /></a> </p>
 
-- 🔭 I’m currently working on [Inspired Fit Chicks](http://inspiredfitchicks.com/)
+- 🔭 I’m currently working on [Traders Band](https://tradersband.com/)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Advance Plugin Development**
 
 - 👯 I’m looking to collaborate on [Pioneer Custom Boxes](https://www.pioneercustomboxes.com/)
 
 - 🤝 I’m looking for help with **SAAS (Website Builder)**
 
-- 👨‍💻 All of my projects are available at [https://gemprogrammers.com/portfolio/](https://gemprogrammers.com/portfolio/)
+- 👨‍💻 All of my projects are available at [Ali Raza POrtfolio](https://alirazafreelancer.com/)
 
 - 📝 I regularly write articles on [https://gemprogrammers.com/blog/](https://gemprogrammers.com/blog/)
 
-- 💬 Ask me about **javascript, reactjs, nodejs, expressjs, mongodb, php, wordpress, shopify**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, PHP, SQL, WordPress, Shopify**
 
 - 📫 How to reach me **info@gemprogrammers.com**
 
