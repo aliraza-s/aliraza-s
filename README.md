@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/aliraza90891910" target="blank"><img src="https://img.shields.io/twitter/follow/aliraza90891910?logo=twitter&style=for-the-badge" alt="aliraza90891910" /></a> </p>
 
-- 🔭 I’m currently working on [Premier League](https://premierleague.com.co/)
+- 🔭 I’m currently working on [Nextus](https://nextus.online/)
 
-- 🌱 I’m currently learning **Advance Plugin Development**
+- 🌱 I’m currently learning **Advanced Plugin Development** and recently built Yahoo Finance RSS Feed Fetching with Elementor Widget
 
 - 👯 I’m looking to collaborate on [Pioneer Custom Boxes](https://www.pioneercustomboxes.com/)
 
@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://gemprogrammers.com/](https://gemprogrammers.com/)
 
-- ⚡ Fun fact **I think I am Full Stack MERN, Web Developer, but not**
+- ⚡ Fun fact **I think I am a Full Stack MERN, Web Developer, but not**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,9 +33,9 @@
 <a href="https://twitter.com/aliraza90891910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aliraza90891910" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/aliraza0322/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/aliraza0322/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/27813096/ali-raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27813096/ali-raza" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100090847061760" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100090847061760" height="30" width="40" /></a>
-<a href="https://instagram.com/gem_programmers/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gem_programmers/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/channel/uco6vyghkkx2nz1_sbih1kwg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/uco6vyghkkx2nz1_sbih1kwg" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ali.raza.142353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100090847061760" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aliraza_mr.developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gem_programmers/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@gemprogrammers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/uco6vyghkkx2nz1_sbih1kwg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
